@@ -6,6 +6,6 @@
         "Go"
     ],
     "filePatterns": [
-        "^Hello.txt$"
+        "^hello.txt$"
     ]
 }
