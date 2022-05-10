@@ -1,7 +1,7 @@
 {
     "name": "Octo Organization CI",
     "description": "Octo Organization CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "podium-education-icon",
     "categories": [
         "Go"
     ],
